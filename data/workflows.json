@@ -1,11 +1,24 @@
 [
     {
+        "workflow": "Master 80% of n8n in 36 Minutes",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=e3OV3LnrS7o",
+        "popularity_metrics": {
+            "views": 584191,
+            "likes": 13231,
+            "comments": 521
+        },
+        "like_to_view_ratio": 0.0226,
+        "comment_to_view_ratio": 0.0009,
+        "country": "US"
+    },
+    {
         "workflow": "n8n Explained In 2 Minutes",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=_Wf0NikMyAA",
         "popularity_metrics": {
-            "views": 182433,
-            "likes": 4160,
+            "views": 183419,
+            "likes": 4176,
             "comments": 56
         },
         "like_to_view_ratio": 0.0228,
@@ -13,26 +26,13 @@
         "country": "US"
     },
     {
-        "workflow": "Master 80% of n8n in 36 Minutes",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=e3OV3LnrS7o",
-        "popularity_metrics": {
-            "views": 582653,
-            "likes": 13202,
-            "comments": 521
-        },
-        "like_to_view_ratio": 0.0227,
-        "comment_to_view_ratio": 0.0009,
-        "country": "US"
-    },
-    {
         "workflow": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=vcvRVlc_VFg",
         "popularity_metrics": {
-            "views": 1288762,
-            "likes": 32399,
-            "comments": 871
+            "views": 1291222,
+            "likes": 32451,
+            "comments": 873
         },
         "like_to_view_ratio": 0.0251,
         "comment_to_view_ratio": 0.0007,
@@ -43,8 +43,8 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=GuaKeDS6UKU",
         "popularity_metrics": {
-            "views": 335954,
-            "likes": 2920,
+            "views": 338906,
+            "likes": 2944,
             "comments": 93
         },
         "like_to_view_ratio": 0.0087,
@@ -56,8 +56,8 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
         "popularity_metrics": {
-            "views": 229359,
-            "likes": 4814,
+            "views": 229750,
+            "likes": 4824,
             "comments": 582
         },
         "like_to_view_ratio": 0.021,
@@ -69,8 +69,8 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=4cQWJViybAQ",
         "popularity_metrics": {
-            "views": 969700,
-            "likes": 10442,
+            "views": 970250,
+            "likes": 10446,
             "comments": 252
         },
         "like_to_view_ratio": 0.0108,
@@ -78,11 +78,37 @@
         "country": "US"
     },
     {
+        "workflow": "Stop Learning n8n in 2026... Learn THIS Instead",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=1d77LRUS-wc",
+        "popularity_metrics": {
+            "views": 216922,
+            "likes": 5916,
+            "comments": 298
+        },
+        "like_to_view_ratio": 0.0273,
+        "comment_to_view_ratio": 0.0014,
+        "country": "US"
+    },
+    {
+        "workflow": "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
+        "popularity_metrics": {
+            "views": 646821,
+            "likes": 11095,
+            "comments": 264
+        },
+        "like_to_view_ratio": 0.0172,
+        "comment_to_view_ratio": 0.0004,
+        "country": "US"
+    },
+    {
         "workflow": "10 n8n Workflows to Automate Your Entire Business!",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=PhVTDydFGo0",
         "popularity_metrics": {
-            "views": 28547,
+            "views": 28583,
             "likes": 392,
             "comments": 213
         },
@@ -91,42 +117,16 @@
         "country": "US"
     },
     {
-        "workflow": "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
-        "popularity_metrics": {
-            "views": 645925,
-            "likes": 11080,
-            "comments": 263
-        },
-        "like_to_view_ratio": 0.0172,
-        "comment_to_view_ratio": 0.0004,
-        "country": "US"
-    },
-    {
         "workflow": "You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=ONgECvZNI3o",
         "popularity_metrics": {
-            "views": 2511730,
-            "likes": 95095,
-            "comments": 2601
+            "views": 2512682,
+            "likes": 95107,
+            "comments": 2602
         },
         "like_to_view_ratio": 0.0379,
         "comment_to_view_ratio": 0.001,
-        "country": "US"
-    },
-    {
-        "workflow": "Stop Learning n8n in 2026... Learn THIS Instead",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=1d77LRUS-wc",
-        "popularity_metrics": {
-            "views": 215601,
-            "likes": 5881,
-            "comments": 297
-        },
-        "like_to_view_ratio": 0.0273,
-        "comment_to_view_ratio": 0.0014,
         "country": "US"
     },
     {
@@ -134,25 +134,38 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=g2I5SaGTn4w",
         "popularity_metrics": {
-            "views": 415174,
+            "views": 415603,
             "likes": 8427,
-            "comments": 7166
+            "comments": 7167
         },
         "like_to_view_ratio": 0.0203,
-        "comment_to_view_ratio": 0.0173,
+        "comment_to_view_ratio": 0.0172,
         "country": "US"
     },
     {
-        "workflow": "How I'd Learn n8n if I had to Start Over in 2026",
+        "workflow": "How I built my AI News Assistant ✅ #AI #n8n #ainews #aiautomation #workflow #productivity",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Fqeo8q8-nJg",
+        "url": "https://www.youtube.com/watch?v=lgeXyGR2HJg",
         "popularity_metrics": {
-            "views": 265201,
-            "likes": 11297,
-            "comments": 224
+            "views": 30176,
+            "likes": 1258,
+            "comments": 274
         },
-        "like_to_view_ratio": 0.0426,
-        "comment_to_view_ratio": 0.0008,
+        "like_to_view_ratio": 0.0417,
+        "comment_to_view_ratio": 0.0091,
+        "country": "US"
+    },
+    {
+        "workflow": "Master 80% of n8n by Learning Just These 17 Nodes",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tf1mnCVWJkQ",
+        "popularity_metrics": {
+            "views": 244818,
+            "likes": 7648,
+            "comments": 287
+        },
+        "like_to_view_ratio": 0.0312,
+        "comment_to_view_ratio": 0.0012,
         "country": "US"
     },
     {
@@ -160,8 +173,8 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=gEElEzKazYA",
         "popularity_metrics": {
-            "views": 880125,
-            "likes": 26725,
+            "views": 881783,
+            "likes": 26767,
             "comments": 458
         },
         "like_to_view_ratio": 0.0304,
@@ -169,11 +182,37 @@
         "country": "US"
     },
     {
+        "workflow": "How I'd Learn n8n if I had to Start Over in 2026",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Fqeo8q8-nJg",
+        "popularity_metrics": {
+            "views": 265771,
+            "likes": 11311,
+            "comments": 224
+        },
+        "like_to_view_ratio": 0.0426,
+        "comment_to_view_ratio": 0.0008,
+        "country": "US"
+    },
+    {
+        "workflow": "Stop Learning n8n in 2026...Learn THIS Instead",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZeJXI2MAhj0",
+        "popularity_metrics": {
+            "views": 264659,
+            "likes": 7012,
+            "comments": 322
+        },
+        "like_to_view_ratio": 0.0265,
+        "comment_to_view_ratio": 0.0012,
+        "country": "US"
+    },
+    {
         "workflow": "How I Use AI to Build My n8n Workflows Automatically",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=Yof1n5Qvtu0",
         "popularity_metrics": {
-            "views": 12898,
+            "views": 12907,
             "likes": 326,
             "comments": 23
         },
@@ -182,55 +221,16 @@
         "country": "US"
     },
     {
-        "workflow": "How I built my AI News Assistant ✅ #AI #n8n #ainews #aiautomation #workflow #productivity",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=lgeXyGR2HJg",
-        "popularity_metrics": {
-            "views": 30115,
-            "likes": 1256,
-            "comments": 274
-        },
-        "like_to_view_ratio": 0.0417,
-        "comment_to_view_ratio": 0.0091,
-        "country": "US"
-    },
-    {
         "workflow": "How to Build N8N Workflows with AI in Seconds (No Coding Needed)",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=BotmxIVpj_s",
         "popularity_metrics": {
-            "views": 5651,
-            "likes": 106,
-            "comments": 71
+            "views": 5677,
+            "likes": 107,
+            "comments": 72
         },
         "like_to_view_ratio": 0.0188,
-        "comment_to_view_ratio": 0.0126,
-        "country": "US"
-    },
-    {
-        "workflow": "Master 80% of n8n by Learning Just These 17 Nodes",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=tf1mnCVWJkQ",
-        "popularity_metrics": {
-            "views": 244349,
-            "likes": 7636,
-            "comments": 287
-        },
-        "like_to_view_ratio": 0.0313,
-        "comment_to_view_ratio": 0.0012,
-        "country": "US"
-    },
-    {
-        "workflow": "Stop Learning n8n in 2026...Learn THIS Instead",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ZeJXI2MAhj0",
-        "popularity_metrics": {
-            "views": 262294,
-            "likes": 6972,
-            "comments": 320
-        },
-        "like_to_view_ratio": 0.0266,
-        "comment_to_view_ratio": 0.0012,
+        "comment_to_view_ratio": 0.0127,
         "country": "US"
     },
     {
@@ -238,8 +238,8 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=2aC2ly7vKtM",
         "popularity_metrics": {
-            "views": 1301960,
-            "likes": 49322,
+            "views": 1302797,
+            "likes": 49339,
             "comments": 544
         },
         "like_to_view_ratio": 0.0379,
@@ -247,50 +247,11 @@
         "country": "US"
     },
     {
-        "workflow": "n8n Masterclass: Build AI Agents & Automate Workflows (Beginner to Pro)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ZHH3sr234zY",
-        "popularity_metrics": {
-            "views": 494995,
-            "likes": 13062,
-            "comments": 397
-        },
-        "like_to_view_ratio": 0.0264,
-        "comment_to_view_ratio": 0.0008,
-        "country": "US"
-    },
-    {
-        "workflow": "10 Insane AI Agent Use Cases in n8n! (steal these)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Dt6u-yFEpsk",
-        "popularity_metrics": {
-            "views": 300766,
-            "likes": 5740,
-            "comments": 258
-        },
-        "like_to_view_ratio": 0.0191,
-        "comment_to_view_ratio": 0.0009,
-        "country": "US"
-    },
-    {
-        "workflow": "10 n8n Hacks to Build Production Ready n8n Workflows",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=V07gHByQ1x4",
-        "popularity_metrics": {
-            "views": 3946,
-            "likes": 185,
-            "comments": 9
-        },
-        "like_to_view_ratio": 0.0469,
-        "comment_to_view_ratio": 0.0023,
-        "country": "US"
-    },
-    {
         "workflow": "n8n Just Made Multi Agent AI Way Easier: New AI Agent Tool",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=lW5xEm7iSXk",
         "popularity_metrics": {
-            "views": 119085,
+            "views": 119143,
             "likes": 1798,
             "comments": 87
         },
@@ -299,64 +260,12 @@
         "country": "US"
     },
     {
-        "workflow": "How to Use Free n8n Templates Without Breaking Everything – Beginner Tutorial",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=tf6L9gzShf0",
-        "popularity_metrics": {
-            "views": 124106,
-            "likes": 2562,
-            "comments": 52
-        },
-        "like_to_view_ratio": 0.0206,
-        "comment_to_view_ratio": 0.0004,
-        "country": "US"
-    },
-    {
-        "workflow": "2000+ Free N8N Workflows & AI Workflow Generator Chrome Extension #n8n #n8nworkflow #n8nautomation",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ixgnBBbrL58",
-        "popularity_metrics": {
-            "views": 97500,
-            "likes": 523,
-            "comments": 21
-        },
-        "like_to_view_ratio": 0.0054,
-        "comment_to_view_ratio": 0.0002,
-        "country": "US"
-    },
-    {
-        "workflow": "How Developers Build n8n Workflows (Made Simple) #techtok #automation #n8n",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=D_oWThznAuc",
-        "popularity_metrics": {
-            "views": 5438,
-            "likes": 258,
-            "comments": 9
-        },
-        "like_to_view_ratio": 0.0474,
-        "comment_to_view_ratio": 0.0017,
-        "country": "US"
-    },
-    {
-        "workflow": "I Scraped Every N8N Template For You (FREE Database With 3000+ Workflows)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=_ZpGQ8PpzaE",
-        "popularity_metrics": {
-            "views": 9112,
-            "likes": 298,
-            "comments": 25
-        },
-        "like_to_view_ratio": 0.0327,
-        "comment_to_view_ratio": 0.0027,
-        "country": "US"
-    },
-    {
         "workflow": "n8n will change your life as a developer...",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
         "popularity_metrics": {
-            "views": 1164348,
-            "likes": 55648,
+            "views": 1164780,
+            "likes": 55658,
             "comments": 2153
         },
         "like_to_view_ratio": 0.0478,
@@ -364,119 +273,41 @@
         "country": "US"
     },
     {
-        "workflow": "Master the NEW n8n AI Workflow Builder in Just 10 Minutes",
+        "workflow": "10 n8n Hacks to Build Production Ready n8n Workflows",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=dZrP2X4zCGk",
+        "url": "https://www.youtube.com/watch?v=V07gHByQ1x4",
         "popularity_metrics": {
-            "views": 3775,
-            "likes": 77,
-            "comments": 7
+            "views": 3948,
+            "likes": 185,
+            "comments": 9
         },
-        "like_to_view_ratio": 0.0204,
-        "comment_to_view_ratio": 0.0019,
+        "like_to_view_ratio": 0.0469,
+        "comment_to_view_ratio": 0.0023,
         "country": "US"
     },
     {
-        "workflow": "This AI Workflow Prints MONEY — n8n + ChatGPT + Automation Explained",
+        "workflow": "2000+ Free N8N Workflows & AI Workflow Generator Chrome Extension #n8n #n8nworkflow #n8nautomation",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=kEW9vQiDQeI",
+        "url": "https://www.youtube.com/watch?v=ixgnBBbrL58",
         "popularity_metrics": {
-            "views": 247525,
-            "likes": 11274,
-            "comments": 528
+            "views": 98118,
+            "likes": 529,
+            "comments": 21
         },
-        "like_to_view_ratio": 0.0455,
-        "comment_to_view_ratio": 0.0021,
+        "like_to_view_ratio": 0.0054,
+        "comment_to_view_ratio": 0.0002,
         "country": "US"
     },
     {
-        "workflow": "How To Clone Any N8N Workflow For Your Real Estate Business",
+        "workflow": "n8n Masterclass: Build AI Agents & Automate Workflows (Beginner to Pro)",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=6DsqjHHU2C8",
+        "url": "https://www.youtube.com/watch?v=ZHH3sr234zY",
         "popularity_metrics": {
-            "views": 2876,
-            "likes": 81,
-            "comments": 8
+            "views": 495425,
+            "likes": 13068,
+            "comments": 397
         },
-        "like_to_view_ratio": 0.0282,
-        "comment_to_view_ratio": 0.0028,
-        "country": "US"
-    },
-    {
-        "workflow": "Build & Sell n8n AI Agents (8+ Hour Course, No Code)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Ey18PDiaAYI",
-        "popularity_metrics": {
-            "views": 1702267,
-            "likes": 55887,
-            "comments": 1585
-        },
-        "like_to_view_ratio": 0.0328,
-        "comment_to_view_ratio": 0.0009,
-        "country": "US"
-    },
-    {
-        "workflow": "n8n Tutorial – Zero to Hero Course",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=UIf-SlmMays",
-        "popularity_metrics": {
-            "views": 446250,
-            "likes": 8078,
-            "comments": 174
-        },
-        "like_to_view_ratio": 0.0181,
-        "comment_to_view_ratio": 0.0004,
-        "country": "US"
-    },
-    {
-        "workflow": "Unlock 10,000+ n8n Templates in Seconds! Automate anything just Copy-Paste Any Workflow #n8n",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Ba-qCCmaR8U",
-        "popularity_metrics": {
-            "views": 69170,
-            "likes": 0,
-            "comments": 88
-        },
-        "like_to_view_ratio": 0.0,
-        "comment_to_view_ratio": 0.0013,
-        "country": "US"
-    },
-    {
-        "workflow": "I'll never use n8n the same......",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=s96JeuuwLzc",
-        "popularity_metrics": {
-            "views": 596591,
-            "likes": 17504,
-            "comments": 1545
-        },
-        "like_to_view_ratio": 0.0293,
-        "comment_to_view_ratio": 0.0026,
-        "country": "US"
-    },
-    {
-        "workflow": "Clone Any N8N Workflow in MINUTES",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=o7zHl9gHhVM",
-        "popularity_metrics": {
-            "views": 57344,
-            "likes": 2751,
-            "comments": 300
-        },
-        "like_to_view_ratio": 0.048,
-        "comment_to_view_ratio": 0.0052,
-        "country": "US"
-    },
-    {
-        "workflow": "Build your first Google sheets Agent only with WhatsApp and ChatGPT in #n8n #aiautomation (NO CODE)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=4F3JeO4hxwg",
-        "popularity_metrics": {
-            "views": 167968,
-            "likes": 4041,
-            "comments": 135
-        },
-        "like_to_view_ratio": 0.0241,
+        "like_to_view_ratio": 0.0264,
         "comment_to_view_ratio": 0.0008,
         "country": "US"
     },
@@ -494,12 +325,220 @@
         "country": "US"
     },
     {
+        "workflow": "I Scraped Every N8N Template For You (FREE Database With 3000+ Workflows)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_ZpGQ8PpzaE",
+        "popularity_metrics": {
+            "views": 9126,
+            "likes": 298,
+            "comments": 25
+        },
+        "like_to_view_ratio": 0.0327,
+        "comment_to_view_ratio": 0.0027,
+        "country": "US"
+    },
+    {
+        "workflow": "Unlock 10,000+ n8n Templates in Seconds! Automate anything just Copy-Paste Any Workflow #n8n",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ba-qCCmaR8U",
+        "popularity_metrics": {
+            "views": 69606,
+            "likes": 0,
+            "comments": 89
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0013,
+        "country": "US"
+    },
+    {
+        "workflow": "Master the NEW n8n AI Workflow Builder in Just 10 Minutes",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=dZrP2X4zCGk",
+        "popularity_metrics": {
+            "views": 3782,
+            "likes": 77,
+            "comments": 7
+        },
+        "like_to_view_ratio": 0.0204,
+        "comment_to_view_ratio": 0.0019,
+        "country": "US"
+    },
+    {
+        "workflow": "I'll never use n8n the same......",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=s96JeuuwLzc",
+        "popularity_metrics": {
+            "views": 597156,
+            "likes": 17514,
+            "comments": 1545
+        },
+        "like_to_view_ratio": 0.0293,
+        "comment_to_view_ratio": 0.0026,
+        "country": "US"
+    },
+    {
+        "workflow": "How To Clone Any N8N Workflow For Your Real Estate Business",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=6DsqjHHU2C8",
+        "popularity_metrics": {
+            "views": 2877,
+            "likes": 81,
+            "comments": 8
+        },
+        "like_to_view_ratio": 0.0282,
+        "comment_to_view_ratio": 0.0028,
+        "country": "US"
+    },
+    {
+        "workflow": "This AI Workflow Prints MONEY — n8n + ChatGPT + Automation Explained",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=kEW9vQiDQeI",
+        "popularity_metrics": {
+            "views": 247935,
+            "likes": 11281,
+            "comments": 528
+        },
+        "like_to_view_ratio": 0.0455,
+        "comment_to_view_ratio": 0.0021,
+        "country": "US"
+    },
+    {
+        "workflow": "How to Use Free n8n Templates Without Breaking Everything – Beginner Tutorial",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tf6L9gzShf0",
+        "popularity_metrics": {
+            "views": 124214,
+            "likes": 2563,
+            "comments": 52
+        },
+        "like_to_view_ratio": 0.0206,
+        "comment_to_view_ratio": 0.0004,
+        "country": "US"
+    },
+    {
+        "workflow": "10 Insane AI Agent Use Cases in n8n! (steal these)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Dt6u-yFEpsk",
+        "popularity_metrics": {
+            "views": 300918,
+            "likes": 5741,
+            "comments": 258
+        },
+        "like_to_view_ratio": 0.0191,
+        "comment_to_view_ratio": 0.0009,
+        "country": "US"
+    },
+    {
+        "workflow": "Build & Sell n8n AI Agents (8+ Hour Course, No Code)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ey18PDiaAYI",
+        "popularity_metrics": {
+            "views": 1703868,
+            "likes": 55928,
+            "comments": 1587
+        },
+        "like_to_view_ratio": 0.0328,
+        "comment_to_view_ratio": 0.0009,
+        "country": "US"
+    },
+    {
+        "workflow": "How Developers Build n8n Workflows (Made Simple) #techtok #automation #n8n",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=D_oWThznAuc",
+        "popularity_metrics": {
+            "views": 5441,
+            "likes": 258,
+            "comments": 9
+        },
+        "like_to_view_ratio": 0.0474,
+        "comment_to_view_ratio": 0.0017,
+        "country": "US"
+    },
+    {
+        "workflow": "Build your first Google sheets Agent only with WhatsApp and ChatGPT in #n8n #aiautomation (NO CODE)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=4F3JeO4hxwg",
+        "popularity_metrics": {
+            "views": 168447,
+            "likes": 4052,
+            "comments": 135
+        },
+        "like_to_view_ratio": 0.0241,
+        "comment_to_view_ratio": 0.0008,
+        "country": "US"
+    },
+    {
+        "workflow": "n8n Tutorial – Zero to Hero Course",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=UIf-SlmMays",
+        "popularity_metrics": {
+            "views": 452344,
+            "likes": 8098,
+            "comments": 174
+        },
+        "like_to_view_ratio": 0.0179,
+        "comment_to_view_ratio": 0.0004,
+        "country": "US"
+    },
+    {
+        "workflow": "Clone Any N8N Workflow in MINUTES",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=o7zHl9gHhVM",
+        "popularity_metrics": {
+            "views": 57359,
+            "likes": 2751,
+            "comments": 300
+        },
+        "like_to_view_ratio": 0.048,
+        "comment_to_view_ratio": 0.0052,
+        "country": "US"
+    },
+    {
+        "workflow": "Comment \"scraper\" and I'll send you the full n8n workflow template and walkthrough video.",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=UgchGvlB3RI",
+        "popularity_metrics": {
+            "views": 4078,
+            "likes": 164,
+            "comments": 85
+        },
+        "like_to_view_ratio": 0.0402,
+        "comment_to_view_ratio": 0.0208,
+        "country": "US"
+    },
+    {
+        "workflow": "Claude Code Just Changed How I Build n8n Workflows Forever",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=TztJaN8ep60",
+        "popularity_metrics": {
+            "views": 1729,
+            "likes": 183,
+            "comments": 9
+        },
+        "like_to_view_ratio": 0.1058,
+        "comment_to_view_ratio": 0.0052,
+        "country": "US"
+    },
+    {
+        "workflow": "How to Build a WhatsApp Agent with n8n (credential tutorial)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=A0OwvNOLNlw",
+        "popularity_metrics": {
+            "views": 302152,
+            "likes": 5092,
+            "comments": 484
+        },
+        "like_to_view_ratio": 0.0169,
+        "comment_to_view_ratio": 0.0016,
+        "country": "US"
+    },
+    {
         "workflow": "Don't Sell N8N Workflows, Sell AI Infrastructure - Here's How (Massive Opportunity)",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=GKCBpj9FQXU",
         "popularity_metrics": {
-            "views": 378804,
-            "likes": 14234,
+            "views": 378842,
+            "likes": 14238,
             "comments": 278
         },
         "like_to_view_ratio": 0.0376,
@@ -520,55 +559,16 @@
         "country": "US"
     },
     {
-        "workflow": "Claude Code Just Changed How I Build n8n Workflows Forever",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=TztJaN8ep60",
-        "popularity_metrics": {
-            "views": 1719,
-            "likes": 180,
-            "comments": 9
-        },
-        "like_to_view_ratio": 0.1047,
-        "comment_to_view_ratio": 0.0052,
-        "country": "US"
-    },
-    {
-        "workflow": "Comment \"scraper\" and I'll send you the full n8n workflow template and walkthrough video.",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=UgchGvlB3RI",
-        "popularity_metrics": {
-            "views": 4078,
-            "likes": 164,
-            "comments": 85
-        },
-        "like_to_view_ratio": 0.0402,
-        "comment_to_view_ratio": 0.0208,
-        "country": "US"
-    },
-    {
         "workflow": "Build N8N Workflows with Just a Prompt! | No Code Needed | Free AI Tool 🤖⚡ | AI Unlocked Ep.30",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=V1L5KCEAB5U",
         "popularity_metrics": {
-            "views": 7168,
+            "views": 7176,
             "likes": 0,
-            "comments": 80
+            "comments": 81
         },
         "like_to_view_ratio": 0.0,
-        "comment_to_view_ratio": 0.0112,
-        "country": "US"
-    },
-    {
-        "workflow": "How to Build a WhatsApp Agent with n8n (credential tutorial)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=A0OwvNOLNlw",
-        "popularity_metrics": {
-            "views": 301556,
-            "likes": 5082,
-            "comments": 484
-        },
-        "like_to_view_ratio": 0.0169,
-        "comment_to_view_ratio": 0.0016,
+        "comment_to_view_ratio": 0.0113,
         "country": "US"
     },
     {
@@ -576,24 +576,11 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=OpUGl4gBHAU",
         "popularity_metrics": {
-            "views": 288954,
-            "likes": 8223,
+            "views": 289422,
+            "likes": 8233,
             "comments": 502
         },
-        "like_to_view_ratio": 0.0285,
-        "comment_to_view_ratio": 0.0017,
-        "country": "US"
-    },
-    {
-        "workflow": "The ONLY n8n Tutorial You Need for Beginners | How to Build AI Automations for FREE (Step-by-Step)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=uK42llzHjmY",
-        "popularity_metrics": {
-            "views": 24568,
-            "likes": 802,
-            "comments": 41
-        },
-        "like_to_view_ratio": 0.0326,
+        "like_to_view_ratio": 0.0284,
         "comment_to_view_ratio": 0.0017,
         "country": "US"
     },
@@ -602,12 +589,25 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=GIZzRGYpCbM",
         "popularity_metrics": {
-            "views": 235519,
-            "likes": 4410,
+            "views": 237795,
+            "likes": 4418,
             "comments": 132
         },
-        "like_to_view_ratio": 0.0187,
+        "like_to_view_ratio": 0.0186,
         "comment_to_view_ratio": 0.0006,
+        "country": "US"
+    },
+    {
+        "workflow": "How to Copy ANY n8n Workflow in Seconds! (No Coding Required)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=kBP17V3LCT0",
+        "popularity_metrics": {
+            "views": 12843,
+            "likes": 444,
+            "comments": 46
+        },
+        "like_to_view_ratio": 0.0346,
+        "comment_to_view_ratio": 0.0036,
         "country": "US"
     },
     {
@@ -615,7 +615,7 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=8ADnqkkM5a4",
         "popularity_metrics": {
-            "views": 7397,
+            "views": 7401,
             "likes": 467,
             "comments": 117
         },
@@ -624,29 +624,29 @@
         "country": "US"
     },
     {
-        "workflow": "How to Copy ANY n8n Workflow in Seconds! (No Coding Required)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=kBP17V3LCT0",
-        "popularity_metrics": {
-            "views": 12839,
-            "likes": 444,
-            "comments": 46
-        },
-        "like_to_view_ratio": 0.0346,
-        "comment_to_view_ratio": 0.0036,
-        "country": "US"
-    },
-    {
         "workflow": "Build n8n Workflows Without Leaving Your IDE",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=YqWCBW1VrBc",
         "popularity_metrics": {
-            "views": 12621,
+            "views": 12660,
             "likes": 360,
             "comments": 61
         },
-        "like_to_view_ratio": 0.0285,
+        "like_to_view_ratio": 0.0284,
         "comment_to_view_ratio": 0.0048,
+        "country": "US"
+    },
+    {
+        "workflow": "5 Error Handling Techniques for Production n8n Workflows",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Zy4cVtHJNvc",
+        "popularity_metrics": {
+            "views": 36888,
+            "likes": 1723,
+            "comments": 10
+        },
+        "like_to_view_ratio": 0.0467,
+        "comment_to_view_ratio": 0.0003,
         "country": "US"
     },
     {
@@ -654,25 +654,12 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=vcvRVlc_VFg",
         "popularity_metrics": {
-            "views": 1288762,
-            "likes": 32399,
-            "comments": 871
+            "views": 1291222,
+            "likes": 32451,
+            "comments": 873
         },
         "like_to_view_ratio": 0.0251,
         "comment_to_view_ratio": 0.0007,
-        "country": "IN"
-    },
-    {
-        "workflow": "2000+ Free n8n Workflows on GitHub  👨‍💻 | Boost Your Productivity Instantly! #shorts",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=g2I5SaGTn4w",
-        "popularity_metrics": {
-            "views": 415172,
-            "likes": 8427,
-            "comments": 7166
-        },
-        "like_to_view_ratio": 0.0203,
-        "comment_to_view_ratio": 0.0173,
         "country": "IN"
     },
     {
@@ -680,8 +667,8 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=_Wf0NikMyAA",
         "popularity_metrics": {
-            "views": 182433,
-            "likes": 4160,
+            "views": 183419,
+            "likes": 4176,
             "comments": 56
         },
         "like_to_view_ratio": 0.0228,
@@ -689,81 +676,16 @@
         "country": "IN"
     },
     {
-        "workflow": "Unlock 10,000+ n8n Templates in Seconds! Automate anything just Copy-Paste Any Workflow #n8n",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Ba-qCCmaR8U",
-        "popularity_metrics": {
-            "views": 69170,
-            "likes": 0,
-            "comments": 88
-        },
-        "like_to_view_ratio": 0.0,
-        "comment_to_view_ratio": 0.0013,
-        "country": "IN"
-    },
-    {
-        "workflow": "2000+ Free N8N Workflows & AI Workflow Generator Chrome Extension #n8n #n8nworkflow #n8nautomation",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ixgnBBbrL58",
-        "popularity_metrics": {
-            "views": 97491,
-            "likes": 523,
-            "comments": 21
-        },
-        "like_to_view_ratio": 0.0054,
-        "comment_to_view_ratio": 0.0002,
-        "country": "IN"
-    },
-    {
-        "workflow": "Build your first Google sheets Agent only with WhatsApp and ChatGPT in #n8n #aiautomation (NO CODE)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=4F3JeO4hxwg",
-        "popularity_metrics": {
-            "views": 167968,
-            "likes": 4041,
-            "comments": 135
-        },
-        "like_to_view_ratio": 0.0241,
-        "comment_to_view_ratio": 0.0008,
-        "country": "IN"
-    },
-    {
-        "workflow": "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
-        "popularity_metrics": {
-            "views": 645925,
-            "likes": 11080,
-            "comments": 263
-        },
-        "like_to_view_ratio": 0.0172,
-        "comment_to_view_ratio": 0.0004,
-        "country": "IN"
-    },
-    {
         "workflow": "Master 80% of n8n in 36 Minutes",
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=e3OV3LnrS7o",
         "popularity_metrics": {
-            "views": 582653,
-            "likes": 13202,
+            "views": 584191,
+            "likes": 13231,
             "comments": 521
         },
-        "like_to_view_ratio": 0.0227,
+        "like_to_view_ratio": 0.0226,
         "comment_to_view_ratio": 0.0009,
-        "country": "IN"
-    },
-    {
-        "workflow": "How to Build N8N Workflows with AI in Seconds (No Coding Needed)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=BotmxIVpj_s",
-        "popularity_metrics": {
-            "views": 5651,
-            "likes": 106,
-            "comments": 71
-        },
-        "like_to_view_ratio": 0.0188,
-        "comment_to_view_ratio": 0.0126,
         "country": "IN"
     },
     {
@@ -771,8 +693,8 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=kEW9vQiDQeI",
         "popularity_metrics": {
-            "views": 247525,
-            "likes": 11274,
+            "views": 247935,
+            "likes": 11281,
             "comments": 528
         },
         "like_to_view_ratio": 0.0455,
@@ -780,94 +702,16 @@
         "country": "IN"
     },
     {
-        "workflow": "N8n AI Agents are INSANE!!",
+        "workflow": "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=gEElEzKazYA",
+        "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
         "popularity_metrics": {
-            "views": 880125,
-            "likes": 26725,
-            "comments": 458
+            "views": 646819,
+            "likes": 11095,
+            "comments": 264
         },
-        "like_to_view_ratio": 0.0304,
-        "comment_to_view_ratio": 0.0005,
-        "country": "IN"
-    },
-    {
-        "workflow": "n8n Quick Start Tutorial: Build Your First Workflow [2025]",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=4cQWJViybAQ",
-        "popularity_metrics": {
-            "views": 969703,
-            "likes": 10442,
-            "comments": 252
-        },
-        "like_to_view_ratio": 0.0108,
-        "comment_to_view_ratio": 0.0003,
-        "country": "IN"
-    },
-    {
-        "workflow": "I Built the Ultimate Team of Agents in n8n  #artificialintelligence #n8n #agentgpt  #techtok #coding",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=2aC2ly7vKtM",
-        "popularity_metrics": {
-            "views": 1301960,
-            "likes": 49322,
-            "comments": 544
-        },
-        "like_to_view_ratio": 0.0379,
+        "like_to_view_ratio": 0.0172,
         "comment_to_view_ratio": 0.0004,
-        "country": "IN"
-    },
-    {
-        "workflow": "How Developers Build n8n Workflows (Made Simple) #techtok #automation #n8n",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=D_oWThznAuc",
-        "popularity_metrics": {
-            "views": 5438,
-            "likes": 258,
-            "comments": 9
-        },
-        "like_to_view_ratio": 0.0474,
-        "comment_to_view_ratio": 0.0017,
-        "country": "IN"
-    },
-    {
-        "workflow": "Create an AI Chatbot in Minutes Using n8n! 🤖 (No Coding Required)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=aXf51HXzqLw",
-        "popularity_metrics": {
-            "views": 937805,
-            "likes": 15907,
-            "comments": 100
-        },
-        "like_to_view_ratio": 0.017,
-        "comment_to_view_ratio": 0.0001,
-        "country": "IN"
-    },
-    {
-        "workflow": "n8n Masterclass: Build AI Agents & Automate Workflows (Beginner to Pro)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ZHH3sr234zY",
-        "popularity_metrics": {
-            "views": 494995,
-            "likes": 13062,
-            "comments": 397
-        },
-        "like_to_view_ratio": 0.0264,
-        "comment_to_view_ratio": 0.0008,
-        "country": "IN"
-    },
-    {
-        "workflow": "Automating Faceless Shorts with AI (No Code + n8n Template)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=zSkv2ydB54M",
-        "popularity_metrics": {
-            "views": 216032,
-            "likes": 5661,
-            "comments": 235
-        },
-        "like_to_view_ratio": 0.0262,
-        "comment_to_view_ratio": 0.0011,
         "country": "IN"
     },
     {
@@ -875,51 +719,12 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=ONgECvZNI3o",
         "popularity_metrics": {
-            "views": 2511730,
-            "likes": 95095,
-            "comments": 2601
+            "views": 2512682,
+            "likes": 95107,
+            "comments": 2602
         },
         "like_to_view_ratio": 0.0379,
         "comment_to_view_ratio": 0.001,
-        "country": "IN"
-    },
-    {
-        "workflow": "The Only 12 n8n AI Automations You'll Ever Need (Steal These)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=niHtZBNaJ58",
-        "popularity_metrics": {
-            "views": 347251,
-            "likes": 14738,
-            "comments": 124
-        },
-        "like_to_view_ratio": 0.0424,
-        "comment_to_view_ratio": 0.0004,
-        "country": "IN"
-    },
-    {
-        "workflow": "How I built my AI News Assistant ✅ #AI #n8n #ainews #aiautomation #workflow #productivity",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=lgeXyGR2HJg",
-        "popularity_metrics": {
-            "views": 30119,
-            "likes": 1256,
-            "comments": 274
-        },
-        "like_to_view_ratio": 0.0417,
-        "comment_to_view_ratio": 0.0091,
-        "country": "IN"
-    },
-    {
-        "workflow": "n8n Tutorial – Zero to Hero Course",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=UIf-SlmMays",
-        "popularity_metrics": {
-            "views": 446250,
-            "likes": 8078,
-            "comments": 174
-        },
-        "like_to_view_ratio": 0.0181,
-        "comment_to_view_ratio": 0.0004,
         "country": "IN"
     },
     {
@@ -927,8 +732,8 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=GuaKeDS6UKU",
         "popularity_metrics": {
-            "views": 335954,
-            "likes": 2920,
+            "views": 338906,
+            "likes": 2944,
             "comments": 93
         },
         "like_to_view_ratio": 0.0087,
@@ -936,185 +741,16 @@
         "country": "IN"
     },
     {
-        "workflow": "Stop Learning n8n in 2026... Learn THIS Instead",
+        "workflow": "n8n Quick Start Tutorial: Build Your First Workflow [2025]",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=1d77LRUS-wc",
+        "url": "https://www.youtube.com/watch?v=4cQWJViybAQ",
         "popularity_metrics": {
-            "views": 215601,
-            "likes": 5881,
-            "comments": 297
+            "views": 970251,
+            "likes": 10446,
+            "comments": 252
         },
-        "like_to_view_ratio": 0.0273,
-        "comment_to_view_ratio": 0.0014,
-        "country": "IN"
-    },
-    {
-        "workflow": "Master 80% of n8n by Learning Just These 17 Nodes",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=tf1mnCVWJkQ",
-        "popularity_metrics": {
-            "views": 244349,
-            "likes": 7636,
-            "comments": 287
-        },
-        "like_to_view_ratio": 0.0313,
-        "comment_to_view_ratio": 0.0012,
-        "country": "IN"
-    },
-    {
-        "workflow": "Complete n8n Masterclass: Build Al Agents & Automate Workflows (Zero to Hero)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=DkV7ztrhLh8",
-        "popularity_metrics": {
-            "views": 556043,
-            "likes": 16700,
-            "comments": 665
-        },
-        "like_to_view_ratio": 0.03,
-        "comment_to_view_ratio": 0.0012,
-        "country": "IN"
-    },
-    {
-        "workflow": "How to Copy ANY n8n Workflow in Seconds! (No Coding Required)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=kBP17V3LCT0",
-        "popularity_metrics": {
-            "views": 12839,
-            "likes": 444,
-            "comments": 46
-        },
-        "like_to_view_ratio": 0.0346,
-        "comment_to_view_ratio": 0.0036,
-        "country": "IN"
-    },
-    {
-        "workflow": "n8n will change your life as a developer...",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
-        "popularity_metrics": {
-            "views": 1164348,
-            "likes": 55648,
-            "comments": 2153
-        },
-        "like_to_view_ratio": 0.0478,
-        "comment_to_view_ratio": 0.0018,
-        "country": "IN"
-    },
-    {
-        "workflow": "Build & Sell n8n AI Agents (8+ Hour Course, No Code)",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Ey18PDiaAYI",
-        "popularity_metrics": {
-            "views": 1702267,
-            "likes": 55887,
-            "comments": 1585
-        },
-        "like_to_view_ratio": 0.0328,
-        "comment_to_view_ratio": 0.0009,
-        "country": "IN"
-    },
-    {
-        "workflow": "How To Clone Any N8N Workflow For Your Real Estate Business",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=6DsqjHHU2C8",
-        "popularity_metrics": {
-            "views": 2876,
-            "likes": 81,
-            "comments": 8
-        },
-        "like_to_view_ratio": 0.0282,
-        "comment_to_view_ratio": 0.0028,
-        "country": "IN"
-    },
-    {
-        "workflow": "Stop Building n8n Workflows From Scratch! 🚀",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=AcrTysC_OZo",
-        "popularity_metrics": {
-            "views": 8209,
-            "likes": 169,
-            "comments": 132
-        },
-        "like_to_view_ratio": 0.0206,
-        "comment_to_view_ratio": 0.0161,
-        "country": "IN"
-    },
-    {
-        "workflow": "How I'd Learn n8n if I had to Start Over in 2026",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Fqeo8q8-nJg",
-        "popularity_metrics": {
-            "views": 265201,
-            "likes": 11297,
-            "comments": 224
-        },
-        "like_to_view_ratio": 0.0426,
-        "comment_to_view_ratio": 0.0008,
-        "country": "IN"
-    },
-    {
-        "workflow": "How to Use Free n8n Templates Without Breaking Everything – Beginner Tutorial",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=tf6L9gzShf0",
-        "popularity_metrics": {
-            "views": 124106,
-            "likes": 2562,
-            "comments": 52
-        },
-        "like_to_view_ratio": 0.0206,
-        "comment_to_view_ratio": 0.0004,
-        "country": "IN"
-    },
-    {
-        "workflow": "Stop Duplicating Workflows! | Create Sub-Workflows in n8n for AI Automation | n8n Course Tutorial",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=99T_qtFLeNE",
-        "popularity_metrics": {
-            "views": 6150,
-            "likes": 85,
-            "comments": 10
-        },
-        "like_to_view_ratio": 0.0138,
-        "comment_to_view_ratio": 0.0016,
-        "country": "IN"
-    },
-    {
-        "workflow": "How I Use AI to Build My n8n Workflows Automatically",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Yof1n5Qvtu0",
-        "popularity_metrics": {
-            "views": 12898,
-            "likes": 326,
-            "comments": 23
-        },
-        "like_to_view_ratio": 0.0253,
-        "comment_to_view_ratio": 0.0018,
-        "country": "IN"
-    },
-    {
-        "workflow": "n8n Advanced Course (4/8) - Subworkflows",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=xr05Ie_Hkyg",
-        "popularity_metrics": {
-            "views": 55184,
-            "likes": 709,
-            "comments": 0
-        },
-        "like_to_view_ratio": 0.0128,
-        "comment_to_view_ratio": 0.0,
-        "country": "IN"
-    },
-    {
-        "workflow": "These n8n Workflows are INSANE",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=WWnuf6jwkRY",
-        "popularity_metrics": {
-            "views": 2019,
-            "likes": 60,
-            "comments": 9
-        },
-        "like_to_view_ratio": 0.0297,
-        "comment_to_view_ratio": 0.0045,
+        "like_to_view_ratio": 0.0108,
+        "comment_to_view_ratio": 0.0003,
         "country": "IN"
     },
     {
@@ -1122,8 +758,8 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=DbU5FXpd6xI",
         "popularity_metrics": {
-            "views": 119811,
-            "likes": 3092,
+            "views": 120016,
+            "likes": 3093,
             "comments": 229
         },
         "like_to_view_ratio": 0.0258,
@@ -1131,16 +767,68 @@
         "country": "IN"
     },
     {
-        "workflow": "Comment \"scraper\" and I'll send you the full n8n workflow template and walkthrough video.",
+        "workflow": "Stop Learning n8n in 2026... Learn THIS Instead",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=UgchGvlB3RI",
+        "url": "https://www.youtube.com/watch?v=1d77LRUS-wc",
         "popularity_metrics": {
-            "views": 4078,
-            "likes": 164,
-            "comments": 85
+            "views": 216922,
+            "likes": 5916,
+            "comments": 298
         },
-        "like_to_view_ratio": 0.0402,
-        "comment_to_view_ratio": 0.0208,
+        "like_to_view_ratio": 0.0273,
+        "comment_to_view_ratio": 0.0014,
+        "country": "IN"
+    },
+    {
+        "workflow": "Build & Sell n8n AI Agents (8+ Hour Course, No Code)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ey18PDiaAYI",
+        "popularity_metrics": {
+            "views": 1703868,
+            "likes": 55928,
+            "comments": 1587
+        },
+        "like_to_view_ratio": 0.0328,
+        "comment_to_view_ratio": 0.0009,
+        "country": "IN"
+    },
+    {
+        "workflow": "Complete n8n Masterclass: Build Al Agents & Automate Workflows (Zero to Hero)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=DkV7ztrhLh8",
+        "popularity_metrics": {
+            "views": 556916,
+            "likes": 16713,
+            "comments": 666
+        },
+        "like_to_view_ratio": 0.03,
+        "comment_to_view_ratio": 0.0012,
+        "country": "IN"
+    },
+    {
+        "workflow": "n8n will change your life as a developer...",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
+        "popularity_metrics": {
+            "views": 1164780,
+            "likes": 55658,
+            "comments": 2153
+        },
+        "like_to_view_ratio": 0.0478,
+        "comment_to_view_ratio": 0.0018,
+        "country": "IN"
+    },
+    {
+        "workflow": "N8N Full Course | Learn to Build & Earn with AI Automations",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=2BuGehPaSBY",
+        "popularity_metrics": {
+            "views": 282911,
+            "likes": 8614,
+            "comments": 633
+        },
+        "like_to_view_ratio": 0.0304,
+        "comment_to_view_ratio": 0.0022,
         "country": "IN"
     },
     {
@@ -1148,25 +836,38 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=OpUGl4gBHAU",
         "popularity_metrics": {
-            "views": 288954,
-            "likes": 8223,
+            "views": 289422,
+            "likes": 8233,
             "comments": 502
         },
-        "like_to_view_ratio": 0.0285,
+        "like_to_view_ratio": 0.0284,
         "comment_to_view_ratio": 0.0017,
         "country": "IN"
     },
     {
-        "workflow": "How to sell n8n automation for $3,000",
+        "workflow": "Stop Learning n8n in 2026...Learn THIS Instead",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=7CKYk8FX6UY",
+        "url": "https://www.youtube.com/watch?v=ZeJXI2MAhj0",
         "popularity_metrics": {
-            "views": 101312,
-            "likes": 2600,
-            "comments": 11
+            "views": 264659,
+            "likes": 7012,
+            "comments": 322
         },
-        "like_to_view_ratio": 0.0257,
-        "comment_to_view_ratio": 0.0001,
+        "like_to_view_ratio": 0.0265,
+        "comment_to_view_ratio": 0.0012,
+        "country": "IN"
+    },
+    {
+        "workflow": "n8n Complete Course (Beginner to Advanced) | WhatsApp Automation Project",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=zQM2HgNTBCs",
+        "popularity_metrics": {
+            "views": 827214,
+            "likes": 30777,
+            "comments": 2056
+        },
+        "like_to_view_ratio": 0.0372,
+        "comment_to_view_ratio": 0.0025,
         "country": "IN"
     },
     {
@@ -1174,7 +875,7 @@
         "platform": "YouTube",
         "url": "https://www.youtube.com/watch?v=PhVTDydFGo0",
         "popularity_metrics": {
-            "views": 28547,
+            "views": 28582,
             "likes": 392,
             "comments": 213
         },
@@ -1183,120 +884,419 @@
         "country": "IN"
     },
     {
-        "workflow": "10 Insane AI Agent Use Cases in n8n! (steal these)",
+        "workflow": "How I'd Learn n8n if I had to Start Over in 2026",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Dt6u-yFEpsk",
+        "url": "https://www.youtube.com/watch?v=Fqeo8q8-nJg",
         "popularity_metrics": {
-            "views": 300766,
-            "likes": 5740,
-            "comments": 258
+            "views": 265771,
+            "likes": 11311,
+            "comments": 224
         },
-        "like_to_view_ratio": 0.0191,
-        "comment_to_view_ratio": 0.0009,
+        "like_to_view_ratio": 0.0426,
+        "comment_to_view_ratio": 0.0008,
         "country": "IN"
     },
     {
-        "workflow": "Seriously, please watch this before you start learning n8n",
+        "workflow": "This Tool Builds UI for your n8n Workflow - Sell this AI Agent System - Hindi Video",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
+        "url": "https://www.youtube.com/watch?v=JJWBU5jwBR8",
         "popularity_metrics": {
-            "views": 229361,
-            "likes": 4814,
-            "comments": 582
+            "views": 28833,
+            "likes": 1049,
+            "comments": 98
         },
-        "like_to_view_ratio": 0.021,
-        "comment_to_view_ratio": 0.0025,
+        "like_to_view_ratio": 0.0364,
+        "comment_to_view_ratio": 0.0034,
         "country": "IN"
     },
     {
-        "workflow": "Cream Lead AiAgent#n8n #n8nhindi #n8ntutorial #aiagents #aiagents #aiforbusiness #ai #shorts  #short",
+        "workflow": "Complete n8n Masterclass [Updated for 2026]: Build Real-World Automations and AI Agents from Scratch",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=SB_YjUTGKiM",
+        "url": "https://www.youtube.com/watch?v=LGqaSsSLz68",
         "popularity_metrics": {
-            "views": 206844,
-            "likes": 8300,
-            "comments": 74
+            "views": 125435,
+            "likes": 3548,
+            "comments": 228
         },
-        "like_to_view_ratio": 0.0401,
-        "comment_to_view_ratio": 0.0004,
+        "like_to_view_ratio": 0.0283,
+        "comment_to_view_ratio": 0.0018,
         "country": "IN"
     },
     {
-        "workflow": "Stop Building n8n AI Agents (This AI Workflow Builder Does It INSTANTLY)",
+        "workflow": "I'll never use n8n the same......",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=m6LWu8XwYQE",
+        "url": "https://www.youtube.com/watch?v=s96JeuuwLzc",
         "popularity_metrics": {
-            "views": 3032,
-            "likes": 45,
+            "views": 597156,
+            "likes": 17514,
+            "comments": 1545
+        },
+        "like_to_view_ratio": 0.0293,
+        "comment_to_view_ratio": 0.0026,
+        "country": "IN"
+    },
+    {
+        "workflow": "Conversational AI Appointment Setter Workflow with N8N, GHL, Claude, and ChatGPT",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=B0bOcJ43NUk",
+        "popularity_metrics": {
+            "views": 0,
+            "likes": 0,
             "comments": 0
         },
-        "like_to_view_ratio": 0.0148,
+        "like_to_view_ratio": 0.0,
         "comment_to_view_ratio": 0.0,
         "country": "IN"
     },
     {
-        "workflow": "n8n Course for Beginners – Build Complex Workflows & Master AI Integration",
+        "workflow": "🚀 AI-Powered Content Automation Workflow using n8n | Multi-Agent AI System Explained",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=GIZzRGYpCbM",
+        "url": "https://www.youtube.com/watch?v=1ULdp9TMfVg",
         "popularity_metrics": {
-            "views": 235519,
-            "likes": 4410,
-            "comments": 132
+            "views": 59,
+            "likes": 2,
+            "comments": 2
         },
-        "like_to_view_ratio": 0.0187,
-        "comment_to_view_ratio": 0.0006,
+        "like_to_view_ratio": 0.0339,
+        "comment_to_view_ratio": 0.0339,
         "country": "IN"
     },
     {
-        "workflow": "Claude Code Just Changed How I Build n8n Workflows Forever",
+        "workflow": "Connect n8n to Telegram and See Every Chat in One Place",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=TztJaN8ep60",
+        "url": "https://www.youtube.com/watch?v=lUDfS8YDqlM",
         "popularity_metrics": {
-            "views": 1718,
-            "likes": 180,
-            "comments": 9
-        },
-        "like_to_view_ratio": 0.1048,
-        "comment_to_view_ratio": 0.0052,
-        "country": "IN"
-    },
-    {
-        "workflow": "Build N8N Workflows with Just a Prompt! | No Code Needed | Free AI Tool 🤖⚡ | AI Unlocked Ep.30",
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=V1L5KCEAB5U",
-        "popularity_metrics": {
-            "views": 7168,
+            "views": 52,
             "likes": 0,
-            "comments": 80
+            "comments": 0
         },
         "like_to_view_ratio": 0.0,
-        "comment_to_view_ratio": 0.0112,
+        "comment_to_view_ratio": 0.0,
         "country": "IN"
     },
     {
-        "workflow": "3 Easy Steps To SECURE n8n Workflows #n8n #techtok #enterpriseai",
+        "workflow": "Turn Any n8n Workflow into a Full AI SaaS with Claude Code",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=8ADnqkkM5a4",
+        "url": "https://www.youtube.com/watch?v=gebdlgDhwAY",
         "popularity_metrics": {
-            "views": 7397,
-            "likes": 467,
-            "comments": 117
+            "views": 56050,
+            "likes": 1870,
+            "comments": 147
         },
-        "like_to_view_ratio": 0.0631,
-        "comment_to_view_ratio": 0.0158,
+        "like_to_view_ratio": 0.0334,
+        "comment_to_view_ratio": 0.0026,
         "country": "IN"
     },
     {
-        "workflow": "N8N Full Course | Learn to Build & Earn with AI Automations",
+        "workflow": "DON'T Build n8n workflows, build Agentic Workflows! (Claude Code)",
         "platform": "YouTube",
-        "url": "https://www.youtube.com/watch?v=2BuGehPaSBY",
+        "url": "https://www.youtube.com/watch?v=JkrH3ftxPYc",
         "popularity_metrics": {
-            "views": 282335,
-            "likes": 8603,
-            "comments": 632
+            "views": 297012,
+            "likes": 6571,
+            "comments": 316
         },
-        "like_to_view_ratio": 0.0305,
-        "comment_to_view_ratio": 0.0022,
+        "like_to_view_ratio": 0.0221,
+        "comment_to_view_ratio": 0.0011,
+        "country": "IN"
+    },
+    {
+        "workflow": "I switched from n8n workflows to agentic workflows (Claude Code) - here's why...",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Vc3I-8eQ7rA",
+        "popularity_metrics": {
+            "views": 18607,
+            "likes": 363,
+            "comments": 27
+        },
+        "like_to_view_ratio": 0.0195,
+        "comment_to_view_ratio": 0.0015,
+        "country": "IN"
+    },
+    {
+        "workflow": "Stop Building n8n Workflows Manually | Claude Does It In 1 Prompt",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ur13-wr1wVo",
+        "popularity_metrics": {
+            "views": 547,
+            "likes": 42,
+            "comments": 7
+        },
+        "like_to_view_ratio": 0.0768,
+        "comment_to_view_ratio": 0.0128,
+        "country": "IN"
+    },
+    {
+        "workflow": "HubSpot Marketing Email Intelligence v1.0.0 — 25-Node AI Blueprint for n8n | ForgeWorkflows",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=oGyV-S_05mI",
+        "popularity_metrics": {
+            "views": 208,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "Best n8n Hosting for Beginners | Managed n8n Hosting ShivaHost— Just ₹199/month (One-Click Install)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=TauWq71prLw",
+        "popularity_metrics": {
+            "views": 833,
+            "likes": 3,
+            "comments": 3
+        },
+        "like_to_view_ratio": 0.0036,
+        "comment_to_view_ratio": 0.0036,
+        "country": "IN"
+    },
+    {
+        "workflow": "Day 5 Build Your FIRST AI Agent Today! (N8N ) In 10 Minutes",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=dY_7RAAbPKc",
+        "popularity_metrics": {
+            "views": 490,
+            "likes": 7,
+            "comments": 7
+        },
+        "like_to_view_ratio": 0.0143,
+        "comment_to_view_ratio": 0.0143,
+        "country": "IN"
+    },
+    {
+        "workflow": "NEW! Openclaw vs n8n 2026 – Features, Workflows & What to Expect",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=46De83_ZQhs",
+        "popularity_metrics": {
+            "views": 204,
+            "likes": 1,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0049,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "Typeform Product Feedback Prioritizer v1.0.0 — 30-Node AI Blueprint for n8n | ForgeWorkflows",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=soVnoaGOlLc",
+        "popularity_metrics": {
+            "views": 18,
+            "likes": 1,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0556,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "Best FREE AI Agent Tools That Actually Work in 2026 (I Tried All)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=2GOfWK5M3fg",
+        "popularity_metrics": {
+            "views": 21453,
+            "likes": 0,
+            "comments": 18
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0008,
+        "country": "IN"
+    },
+    {
+        "workflow": "Build an n8n workflow with just Claude Code #Shorts",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=yrHyri_ybF4",
+        "popularity_metrics": {
+            "views": 124,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "Build Custom n8n Chat Widgets Without Code",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=N0PEATvPMds",
+        "popularity_metrics": {
+            "views": 32,
+            "likes": 3,
+            "comments": 2
+        },
+        "like_to_view_ratio": 0.0938,
+        "comment_to_view_ratio": 0.0625,
+        "country": "IN"
+    },
+    {
+        "workflow": "Linear Backlog Grooming Intelligence v1.0.0 — 24-Node AI Blueprint for n8n | ForgeWorkflows",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=30UUCjDRhF4",
+        "popularity_metrics": {
+            "views": 102,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "Calendly Booking-to-Close Analyzer — 31-Node AI Blueprint for n8n | ForgeWorkflows",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=zFBt7uHGj58",
+        "popularity_metrics": {
+            "views": 207,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "Advanced n8n Workflows: Multi-Step Automations With Conditional Logic",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=X7tt0T4XJ3I",
+        "popularity_metrics": {
+            "views": 9,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "How to get Unlimited Instagram leads with this n8n Ai Agent in Hindi",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nI8aM949_ko",
+        "popularity_metrics": {
+            "views": 109,
+            "likes": 4,
+            "comments": 3
+        },
+        "like_to_view_ratio": 0.0367,
+        "comment_to_view_ratio": 0.0275,
+        "country": "IN"
+    },
+    {
+        "workflow": "n8n Training Live, Pre-Recorded AI Automation Masterclass",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=KdBcX78-2LA",
+        "popularity_metrics": {
+            "views": 132,
+            "likes": 3,
+            "comments": 2
+        },
+        "like_to_view_ratio": 0.0227,
+        "comment_to_view_ratio": 0.0152,
+        "country": "IN"
+    },
+    {
+        "workflow": "Stop Spending Hours Job Hunting: n8n + AI Builds Your Resume in Seconds | Step-by-Step 2026",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=bW5jpa92WZQ",
+        "popularity_metrics": {
+            "views": 143,
+            "likes": 7,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.049,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "Recruitment on Autopilot: Advanced n8n + DeepSeek Workflow",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=fyeFApbFkO0",
+        "popularity_metrics": {
+            "views": 10,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "OpenClaw VS N8N (Full Comparison) - Pros, Cons, Features, & Pricing",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=NC2Y1v3hYBs",
+        "popularity_metrics": {
+            "views": 73,
+            "likes": 1,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0137,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "Build & SELL AI Agents With No Code — n8n + Claude Code (Full Guide)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ja06R-EijIA",
+        "popularity_metrics": {
+            "views": 3835,
+            "likes": 156,
+            "comments": 10
+        },
+        "like_to_view_ratio": 0.0407,
+        "comment_to_view_ratio": 0.0026,
+        "country": "IN"
+    },
+    {
+        "workflow": "Google Sheets CRM Import Validator — 28-Node AI Blueprint for n8n | ForgeWorkflows",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZKUzCcBxsME",
+        "popularity_metrics": {
+            "views": 99,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "NEW! How To Connect ChatGPT to n8n (2025 Step-By-Step Tutorial)",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=mdOBJ6Xwzgk",
+        "popularity_metrics": {
+            "views": 28,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "5 n8n workflows that save 10+ hours every week",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=5jm8UOmQwQA",
+        "popularity_metrics": {
+            "views": 9,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
+        "country": "IN"
+    },
+    {
+        "workflow": "The n8n mistake that wastes everyone's first hour #Shorts",
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/watch?v=hzY61GtiDaQ",
+        "popularity_metrics": {
+            "views": 97,
+            "likes": 0,
+            "comments": 0
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0,
         "country": "IN"
     },
     {
@@ -1304,13 +1304,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/meet-anshul-our-new-community-moderator/294876",
         "popularity_metrics": {
-            "views": 965,
-            "likes": 87,
-            "replies": 19,
+            "views": 1004,
+            "likes": 89,
+            "replies": 20,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0902,
-        "comment_to_view_ratio": 0.0197,
+        "like_to_view_ratio": 0.0886,
+        "comment_to_view_ratio": 0.0199,
         "country": "Global"
     },
     {
@@ -1318,13 +1318,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/trying-out-ai-translation-on-the-forum-expanding-to-more-languages/295674",
         "popularity_metrics": {
-            "views": 637,
+            "views": 638,
             "likes": 40,
             "replies": 14,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0628,
-        "comment_to_view_ratio": 0.022,
+        "like_to_view_ratio": 0.0627,
+        "comment_to_view_ratio": 0.0219,
         "country": "Global"
     },
     {
@@ -1332,13 +1332,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/hiring-n8n-specialist-postgresql-email-automation-project/294131",
         "popularity_metrics": {
-            "views": 848,
+            "views": 864,
             "likes": 11,
-            "replies": 47,
+            "replies": 48,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.013,
-        "comment_to_view_ratio": 0.0554,
+        "like_to_view_ratio": 0.0127,
+        "comment_to_view_ratio": 0.0556,
         "country": "Global"
     },
     {
@@ -1346,13 +1346,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/hiring-ai-automation-engineer-n8n-ai-agent-developer/294904",
         "popularity_metrics": {
-            "views": 933,
+            "views": 953,
             "likes": 7,
             "replies": 26,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0075,
-        "comment_to_view_ratio": 0.0279,
+        "like_to_view_ratio": 0.0073,
+        "comment_to_view_ratio": 0.0273,
         "country": "Global"
     },
     {
@@ -1360,13 +1360,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/hiring-long-term-n8n-postgres-build-for-a-50-state-medical-consulting-practice-multi-tenant-self-hosted-runs-for-years/294834",
         "popularity_metrics": {
-            "views": 751,
+            "views": 782,
             "likes": 4,
-            "replies": 40,
+            "replies": 42,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0053,
-        "comment_to_view_ratio": 0.0533,
+        "like_to_view_ratio": 0.0051,
+        "comment_to_view_ratio": 0.0537,
         "country": "Global"
     },
     {
@@ -1374,13 +1374,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/looking-to-hire-n8n-developers-for-ongoing-automation-projects-what-should-i-look-for/294759",
         "popularity_metrics": {
-            "views": 447,
+            "views": 451,
             "likes": 6,
             "replies": 27,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0134,
-        "comment_to_view_ratio": 0.0604,
+        "like_to_view_ratio": 0.0133,
+        "comment_to_view_ratio": 0.0599,
         "country": "Global"
     },
     {
@@ -1388,13 +1388,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/seeking-a-reliable-n8n-developer-for-ongoing-project-based-work-build-maintain/296828",
         "popularity_metrics": {
-            "views": 395,
+            "views": 432,
             "likes": 4,
-            "replies": 28,
+            "replies": 32,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0101,
-        "comment_to_view_ratio": 0.0709,
+        "like_to_view_ratio": 0.0093,
+        "comment_to_view_ratio": 0.0741,
         "country": "Global"
     },
     {
@@ -1402,13 +1402,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/langfristige-partnerschaft-gesucht-n8n-experte-fur-ki-agentur-kmu-projekte/295163",
         "popularity_metrics": {
-            "views": 307,
+            "views": 308,
             "likes": 12,
             "replies": 21,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0391,
-        "comment_to_view_ratio": 0.0684,
+        "like_to_view_ratio": 0.039,
+        "comment_to_view_ratio": 0.0682,
         "country": "Global"
     },
     {
@@ -1416,13 +1416,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/full-stack-developer/295426",
         "popularity_metrics": {
-            "views": 220,
+            "views": 221,
             "likes": 3,
             "replies": 13,
             "contributors": 5
         },
         "like_to_view_ratio": 0.0136,
-        "comment_to_view_ratio": 0.0591,
+        "comment_to_view_ratio": 0.0588,
         "country": "Global"
     },
     {
@@ -1430,13 +1430,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/the-6-dimension-production-readiness-checklist-ive-been-using-on-every-n8n-workflow-review/296612",
         "popularity_metrics": {
-            "views": 135,
+            "views": 137,
             "likes": 4,
             "replies": 9,
             "contributors": 3
         },
-        "like_to_view_ratio": 0.0296,
-        "comment_to_view_ratio": 0.0667,
+        "like_to_view_ratio": 0.0292,
+        "comment_to_view_ratio": 0.0657,
         "country": "Global"
     },
     {
@@ -1444,13 +1444,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/help-connecting-openai-credential/294736",
         "popularity_metrics": {
-            "views": 479,
+            "views": 484,
             "likes": 10,
             "replies": 16,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0209,
-        "comment_to_view_ratio": 0.0334,
+        "like_to_view_ratio": 0.0207,
+        "comment_to_view_ratio": 0.0331,
         "country": "Global"
     },
     {
@@ -1458,13 +1458,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/invalid-schema-error-when-using-supabase-tool-with-ai-agent-got-type-none/296881",
         "popularity_metrics": {
-            "views": 90,
+            "views": 91,
             "likes": 17,
             "replies": 22,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.1889,
-        "comment_to_view_ratio": 0.2444,
+        "like_to_view_ratio": 0.1868,
+        "comment_to_view_ratio": 0.2418,
         "country": "Global"
     },
     {
@@ -1472,13 +1472,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/how-to-upload-files-that-contain-special-characters-via-powershell/296731",
         "popularity_metrics": {
-            "views": 104,
+            "views": 105,
             "likes": 24,
             "replies": 18,
             "contributors": 4
         },
-        "like_to_view_ratio": 0.2308,
-        "comment_to_view_ratio": 0.1731,
+        "like_to_view_ratio": 0.2286,
+        "comment_to_view_ratio": 0.1714,
         "country": "Global"
     },
     {
@@ -1486,13 +1486,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/2-20-7-exp-0-vs-2-20-7-vs-2-20-6-which-one-to-choose/295655",
         "popularity_metrics": {
-            "views": 129,
+            "views": 130,
             "likes": 11,
             "replies": 10,
             "contributors": 4
         },
-        "like_to_view_ratio": 0.0853,
-        "comment_to_view_ratio": 0.0775,
+        "like_to_view_ratio": 0.0846,
+        "comment_to_view_ratio": 0.0769,
         "country": "Global"
     },
     {
@@ -1510,17 +1510,59 @@
         "country": "Global"
     },
     {
+        "workflow": "Document Loader node fails with “DOMMatrix is not defined” while parsing PDF files",
+        "platform": "n8n Forum",
+        "url": "https://community.n8n.io/t/document-loader-node-fails-with-dommatrix-is-not-defined-while-parsing-pdf-files/297308",
+        "popularity_metrics": {
+            "views": 167,
+            "likes": 7,
+            "replies": 17,
+            "contributors": 5
+        },
+        "like_to_view_ratio": 0.0419,
+        "comment_to_view_ratio": 0.1018,
+        "country": "Global"
+    },
+    {
         "workflow": "Self-hosted n8n: need safest way to reset existing user password without deleting account/data",
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/self-hosted-n8n-need-safest-way-to-reset-existing-user-password-without-deleting-account-data/295832",
         "popularity_metrics": {
-            "views": 209,
+            "views": 216,
             "likes": 13,
             "replies": 10,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0622,
-        "comment_to_view_ratio": 0.0478,
+        "like_to_view_ratio": 0.0602,
+        "comment_to_view_ratio": 0.0463,
+        "country": "Global"
+    },
+    {
+        "workflow": "Gmail Autoreply Workflow sent 50 emails to the same person",
+        "platform": "n8n Forum",
+        "url": "https://community.n8n.io/t/gmail-autoreply-workflow-sent-50-emails-to-the-same-person/297217",
+        "popularity_metrics": {
+            "views": 251,
+            "likes": 6,
+            "replies": 25,
+            "contributors": 5
+        },
+        "like_to_view_ratio": 0.0239,
+        "comment_to_view_ratio": 0.0996,
+        "country": "Global"
+    },
+    {
+        "workflow": "Error when connecting with hugging face!",
+        "platform": "n8n Forum",
+        "url": "https://community.n8n.io/t/error-when-connecting-with-hugging-face/295178",
+        "popularity_metrics": {
+            "views": 235,
+            "likes": 6,
+            "replies": 22,
+            "contributors": 5
+        },
+        "like_to_view_ratio": 0.0255,
+        "comment_to_view_ratio": 0.0936,
         "country": "Global"
     },
     {
@@ -1538,31 +1580,31 @@
         "country": "Global"
     },
     {
-        "workflow": "Error when connecting with hugging face!",
-        "platform": "n8n Forum",
-        "url": "https://community.n8n.io/t/error-when-connecting-with-hugging-face/295178",
-        "popularity_metrics": {
-            "views": 232,
-            "likes": 6,
-            "replies": 22,
-            "contributors": 5
-        },
-        "like_to_view_ratio": 0.0259,
-        "comment_to_view_ratio": 0.0948,
-        "country": "Global"
-    },
-    {
         "workflow": "Looking for an n8n coder to build a youtube videos",
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/looking-for-an-n8n-coder-to-build-a-youtube-videos/296831",
         "popularity_metrics": {
-            "views": 178,
+            "views": 180,
             "likes": 3,
             "replies": 10,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0169,
-        "comment_to_view_ratio": 0.0562,
+        "like_to_view_ratio": 0.0167,
+        "comment_to_view_ratio": 0.0556,
+        "country": "Global"
+    },
+    {
+        "workflow": "Gemini-3.1-flash-lite not supported in Google Vertex Chat Model node",
+        "platform": "n8n Forum",
+        "url": "https://community.n8n.io/t/gemini-3-1-flash-lite-not-supported-in-google-vertex-chat-model-node/296419",
+        "popularity_metrics": {
+            "views": 151,
+            "likes": 2,
+            "replies": 9,
+            "contributors": 5
+        },
+        "like_to_view_ratio": 0.0132,
+        "comment_to_view_ratio": 0.0596,
         "country": "Global"
     },
     {
@@ -1570,13 +1612,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/how-do-you-scrape-cloudflare-protected-websites-in-n8n/296663",
         "popularity_metrics": {
-            "views": 146,
+            "views": 147,
             "likes": 12,
-            "replies": 10,
+            "replies": 11,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0822,
-        "comment_to_view_ratio": 0.0685,
+        "like_to_view_ratio": 0.0816,
+        "comment_to_view_ratio": 0.0748,
         "country": "Global"
     },
     {
@@ -1584,13 +1626,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/n8n-cloud-catch-22-with-google-calendar-oauth-and-ai-agent-cannot-input-client-id-secret/296073",
         "popularity_metrics": {
-            "views": 185,
+            "views": 187,
             "likes": 8,
             "replies": 13,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0432,
-        "comment_to_view_ratio": 0.0703,
+        "like_to_view_ratio": 0.0428,
+        "comment_to_view_ratio": 0.0695,
         "country": "Global"
     },
     {
@@ -1612,27 +1654,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/smtp-credential-not-working-no-testing-function-found-for-this-credential/296188",
         "popularity_metrics": {
-            "views": 290,
+            "views": 296,
             "likes": 8,
             "replies": 14,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0276,
-        "comment_to_view_ratio": 0.0483,
-        "country": "Global"
-    },
-    {
-        "workflow": "Gmail Autoreply Workflow sent 50 emails to the same person",
-        "platform": "n8n Forum",
-        "url": "https://community.n8n.io/t/gmail-autoreply-workflow-sent-50-emails-to-the-same-person/297217",
-        "popularity_metrics": {
-            "views": 229,
-            "likes": 5,
-            "replies": 23,
-            "contributors": 5
-        },
-        "like_to_view_ratio": 0.0218,
-        "comment_to_view_ratio": 0.1004,
+        "like_to_view_ratio": 0.027,
+        "comment_to_view_ratio": 0.0473,
         "country": "Global"
     },
     {
@@ -1640,13 +1668,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/rendering-base64-image-in-form-node/295667",
         "popularity_metrics": {
-            "views": 219,
+            "views": 223,
             "likes": 4,
-            "replies": 18,
+            "replies": 19,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0183,
-        "comment_to_view_ratio": 0.0822,
+        "like_to_view_ratio": 0.0179,
+        "comment_to_view_ratio": 0.0852,
         "country": "Global"
     },
     {
@@ -1654,13 +1682,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/errors-after-upgrade-to-2-22-4-on-cloud/297288",
         "popularity_metrics": {
-            "views": 101,
+            "views": 106,
             "likes": 8,
             "replies": 17,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0792,
-        "comment_to_view_ratio": 0.1683,
+        "like_to_view_ratio": 0.0755,
+        "comment_to_view_ratio": 0.1604,
         "country": "Global"
     },
     {
@@ -1668,13 +1696,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/quiz-level-1-badge-and-quiz-level-2-follow-up/294831",
         "popularity_metrics": {
-            "views": 154,
+            "views": 156,
             "likes": 7,
             "replies": 9,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0455,
-        "comment_to_view_ratio": 0.0584,
+        "like_to_view_ratio": 0.0449,
+        "comment_to_view_ratio": 0.0577,
         "country": "Global"
     },
     {
@@ -1682,27 +1710,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/n8n-connector-fur-claude-code/296356",
         "popularity_metrics": {
-            "views": 237,
+            "views": 242,
             "likes": 2,
             "replies": 12,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0084,
-        "comment_to_view_ratio": 0.0506,
-        "country": "Global"
-    },
-    {
-        "workflow": "Document Loader node fails with “DOMMatrix is not defined” while parsing PDF files",
-        "platform": "n8n Forum",
-        "url": "https://community.n8n.io/t/document-loader-node-fails-with-dommatrix-is-not-defined-while-parsing-pdf-files/297308",
-        "popularity_metrics": {
-            "views": 126,
-            "likes": 4,
-            "replies": 16,
-            "contributors": 5
-        },
-        "like_to_view_ratio": 0.0317,
-        "comment_to_view_ratio": 0.127,
+        "like_to_view_ratio": 0.0083,
+        "comment_to_view_ratio": 0.0496,
         "country": "Global"
     },
     {
@@ -1710,13 +1724,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/http-request-node-fails-with-converting-circular-structure-to-json/295485",
         "popularity_metrics": {
-            "views": 160,
+            "views": 162,
             "likes": 11,
             "replies": 22,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0688,
-        "comment_to_view_ratio": 0.1375,
+        "like_to_view_ratio": 0.0679,
+        "comment_to_view_ratio": 0.1358,
         "country": "Global"
     },
     {
@@ -1724,13 +1738,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/track-executions-across-instances/296794",
         "popularity_metrics": {
-            "views": 67,
+            "views": 72,
             "likes": 6,
             "replies": 9,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0896,
-        "comment_to_view_ratio": 0.1343,
+        "like_to_view_ratio": 0.0833,
+        "comment_to_view_ratio": 0.125,
         "country": "Global"
     },
     {
@@ -1738,13 +1752,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/100-nodes-with-issues-after-workflow-clone/295195",
         "popularity_metrics": {
-            "views": 109,
+            "views": 110,
             "likes": 9,
             "replies": 13,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0826,
-        "comment_to_view_ratio": 0.1193,
+        "like_to_view_ratio": 0.0818,
+        "comment_to_view_ratio": 0.1182,
         "country": "Global"
     },
     {
@@ -1780,13 +1794,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/feat-ai-tools-add-max-tool-interactions-to-ai-agent-nodes-to-prevent-infinite-loops/295587",
         "popularity_metrics": {
-            "views": 156,
+            "views": 157,
             "likes": 12,
             "replies": 18,
             "contributors": 3
         },
-        "like_to_view_ratio": 0.0769,
-        "comment_to_view_ratio": 0.1154,
+        "like_to_view_ratio": 0.0764,
+        "comment_to_view_ratio": 0.1146,
         "country": "Global"
     },
     {
@@ -1794,13 +1808,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/magic-link-not-working-urgent-business-issue/297228",
         "popularity_metrics": {
-            "views": 151,
+            "views": 156,
             "likes": 2,
             "replies": 17,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0132,
-        "comment_to_view_ratio": 0.1126,
+        "like_to_view_ratio": 0.0128,
+        "comment_to_view_ratio": 0.109,
         "country": "Global"
     },
     {
@@ -1808,13 +1822,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/schedule-trigger-fires-dozens-of-concurrent-executions-on-startup-instead-of-oneschedule-trigger-fires-dozens-of-concurrent-executions-on-startup-instead-of-one/296792",
         "popularity_metrics": {
-            "views": 93,
+            "views": 94,
             "likes": 2,
             "replies": 11,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0215,
-        "comment_to_view_ratio": 0.1183,
+        "like_to_view_ratio": 0.0213,
+        "comment_to_view_ratio": 0.117,
         "country": "Global"
     },
     {
@@ -1836,13 +1850,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/double-firing-cron-problem/297216",
         "popularity_metrics": {
-            "views": 94,
+            "views": 107,
             "likes": 3,
-            "replies": 11,
+            "replies": 13,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0319,
-        "comment_to_view_ratio": 0.117,
+        "like_to_view_ratio": 0.028,
+        "comment_to_view_ratio": 0.1215,
         "country": "Global"
     },
     {
@@ -1850,13 +1864,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/the-whatsapp-trigger-is-not-executing-when-i-send-a-whatsapp-message/296504",
         "popularity_metrics": {
-            "views": 166,
+            "views": 169,
             "likes": 7,
             "replies": 10,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0422,
-        "comment_to_view_ratio": 0.0602,
+        "like_to_view_ratio": 0.0414,
+        "comment_to_view_ratio": 0.0592,
         "country": "Global"
     },
     {
@@ -1864,27 +1878,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/execute-workflow-node-success-branch-not-firing-downstream-despite-emitting-data-or-both-branches-firing-simultaneously-with-always-output-data-enabled/297211",
         "popularity_metrics": {
-            "views": 103,
+            "views": 106,
             "likes": 7,
             "replies": 9,
             "contributors": 3
         },
-        "like_to_view_ratio": 0.068,
-        "comment_to_view_ratio": 0.0874,
-        "country": "Global"
-    },
-    {
-        "workflow": "Evaluations With Multiple Rows",
-        "platform": "n8n Forum",
-        "url": "https://community.n8n.io/t/evaluations-with-multiple-rows/295804",
-        "popularity_metrics": {
-            "views": 150,
-            "likes": 0,
-            "replies": 15,
-            "contributors": 3
-        },
-        "like_to_view_ratio": 0.0,
-        "comment_to_view_ratio": 0.1,
+        "like_to_view_ratio": 0.066,
+        "comment_to_view_ratio": 0.0849,
         "country": "Global"
     },
     {
@@ -1892,13 +1892,27 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/bug-nodes-showing-as-pinned-in-non-test-workflow-executes/297438",
         "popularity_metrics": {
-            "views": 88,
+            "views": 92,
             "likes": 7,
             "replies": 12,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0795,
-        "comment_to_view_ratio": 0.1364,
+        "like_to_view_ratio": 0.0761,
+        "comment_to_view_ratio": 0.1304,
+        "country": "Global"
+    },
+    {
+        "workflow": "Evaluations With Multiple Rows",
+        "platform": "n8n Forum",
+        "url": "https://community.n8n.io/t/evaluations-with-multiple-rows/295804",
+        "popularity_metrics": {
+            "views": 155,
+            "likes": 0,
+            "replies": 15,
+            "contributors": 3
+        },
+        "like_to_view_ratio": 0.0,
+        "comment_to_view_ratio": 0.0968,
         "country": "Global"
     },
     {
@@ -1906,13 +1920,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/oauth2-credentials-failing-at-multiple-points/297730",
         "popularity_metrics": {
-            "views": 81,
-            "likes": 1,
+            "views": 89,
+            "likes": 2,
             "replies": 11,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0123,
-        "comment_to_view_ratio": 0.1358,
+        "like_to_view_ratio": 0.0225,
+        "comment_to_view_ratio": 0.1236,
         "country": "Global"
     },
     {
@@ -1920,13 +1934,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/memory-issues-in-n8n/296293",
         "popularity_metrics": {
-            "views": 149,
+            "views": 152,
             "likes": 2,
             "replies": 10,
             "contributors": 5
         },
-        "like_to_view_ratio": 0.0134,
-        "comment_to_view_ratio": 0.0671,
+        "like_to_view_ratio": 0.0132,
+        "comment_to_view_ratio": 0.0658,
         "country": "Global"
     },
     {
@@ -1934,13 +1948,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/n8n-google-gemini-nano-banana-set-up-issue/297617",
         "popularity_metrics": {
-            "views": 69,
+            "views": 70,
             "likes": 11,
             "replies": 14,
             "contributors": 3
         },
-        "like_to_view_ratio": 0.1594,
-        "comment_to_view_ratio": 0.2029,
+        "like_to_view_ratio": 0.1571,
+        "comment_to_view_ratio": 0.2,
         "country": "Global"
     },
     {
@@ -1948,13 +1962,13 @@
         "platform": "n8n Forum",
         "url": "https://community.n8n.io/t/why-does-the-localhost-sign-in-doesnt-work/296732",
         "popularity_metrics": {
-            "views": 125,
+            "views": 127,
             "likes": 8,
             "replies": 12,
             "contributors": 3
         },
-        "like_to_view_ratio": 0.064,
-        "comment_to_view_ratio": 0.096,
+        "like_to_view_ratio": 0.063,
+        "comment_to_view_ratio": 0.0945,
         "country": "Global"
     },
     {
@@ -1972,31 +1986,17 @@
         "country": "Global"
     },
     {
-        "workflow": "N8n cloudflare self hosting 503 error consistently",
+        "workflow": "Finding Badge Certificate",
         "platform": "n8n Forum",
-        "url": "https://community.n8n.io/t/n8n-cloudflare-self-hosting-503-error-consistently/295677",
+        "url": "https://community.n8n.io/t/finding-badge-certificate/297640",
         "popularity_metrics": {
-            "views": 140,
-            "likes": 3,
-            "replies": 9,
+            "views": 69,
+            "likes": 6,
+            "replies": 10,
             "contributors": 4
         },
-        "like_to_view_ratio": 0.0214,
-        "comment_to_view_ratio": 0.0643,
-        "country": "Global"
-    },
-    {
-        "workflow": "Source control failed to connect error",
-        "platform": "n8n Forum",
-        "url": "https://community.n8n.io/t/source-control-failed-to-connect-error/295613",
-        "popularity_metrics": {
-            "views": 134,
-            "likes": 3,
-            "replies": 10,
-            "contributors": 5
-        },
-        "like_to_view_ratio": 0.0224,
-        "comment_to_view_ratio": 0.0746,
+        "like_to_view_ratio": 0.087,
+        "comment_to_view_ratio": 0.1449,
         "country": "Global"
     }
 ]
